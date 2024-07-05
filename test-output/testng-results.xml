@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-28T08:33:28 IST" name="Default suite" finished-at="2024-06-28T08:33:43 IST" duration-ms="15493">
+    <groups>
+      <group name="regression">
+        <method signature="SeleniumBasics.testBrowser()[pri:0, instance:demo.SeleniumBasics@1623b78d]" name="testBrowser" class="demo.SeleniumBasics"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="SeleniumBasics.testBrowser()[pri:0, instance:demo.SeleniumBasics@1623b78d]" name="testBrowser" class="demo.SeleniumBasics"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-06-28T08:33:28 IST" name="Default test" finished-at="2024-06-28T08:33:43 IST" duration-ms="15493">
+      <class name="demo.SeleniumBasics">
+        <test-method signature="testBrowser()[pri:0, instance:demo.SeleniumBasics@1623b78d]" started-at="2024-06-28T08:33:28 IST" name="testBrowser" finished-at="2024-06-28T08:33:43 IST" duration-ms="15417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBrowser -->
+      </class> <!-- demo.SeleniumBasics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
